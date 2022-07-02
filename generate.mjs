@@ -30,9 +30,10 @@ let indexContent = '';
 files.forEach((file) => {
   if (!file.endsWith('.svg')) return;
   const iconName = file.substring(0, file.length - 4);
-  const componentName = pascalCase(iconName, {
-    transform: pascalCaseTransformMerge,
-  });
+  const componentName =
+    pascalCase(iconName, {
+      transform: pascalCaseTransformMerge,
+    }) + 'Icon';
   const safeComponentName = /^\d+/.test(componentName)
     ? 'The' + componentName
     : componentName;
