@@ -16,7 +16,15 @@
     "type": "git",
     "url": "git+https://github.com/guoyunhe/mui-icons-bootstrap.git"
   },
-  "keywords": [],
+  "keywords": [
+    "react",
+    "component",
+    "icon",
+    "mui",
+    "svg",
+    "material-ui",
+    "bootstrap"
+  ],
   "author": "Guo Yunhe",
   "license": "ISC",
   "bugs": {
