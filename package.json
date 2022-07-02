@@ -1,6 +1,6 @@
 {
   "name": "mui-icons-bootstrap",
-  "version": "1.8.4",
+  "version": "1.8.5",
   "description": "Bootstrap icons as MUI SvgIcon components",
   "main": "dist/index.cjs",
   "module": "dist/index.mjs",
