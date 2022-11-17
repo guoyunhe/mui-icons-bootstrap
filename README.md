@@ -29,6 +29,6 @@ function MyApp() {
 
 See https://icons.getbootstrap.com/
 
-The component name consists of pascal-case of icon name and appended with 'Icon'. For example, the icon `arrow-down` relates to component `ArrowDown`.
+The component name consists of pascal-case of icon name. For example, the icon `arrow-down` relates to component `ArrowDown`.
 
-For icon names starting with numbers, the component name will start with 'The'. For example, the icon `123` relates to component `The123Icon`.
+For icon names starting with numbers, the component name will start with 'The'. For example, the icon `123` relates to component `The123`.
